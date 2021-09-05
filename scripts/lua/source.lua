@@ -176,7 +176,8 @@ while true do
 	end
 end
 elseif game.PlaceId == 286090429 then
-	local ui = Instance.new("ScreenGui")
+print 'arsenal detected';
+local ui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local line = Instance.new("Frame")
 local title = Instance.new("TextLabel")
@@ -379,4 +380,9 @@ local function GQNPX_fake_script()
 	end)
 end
 coroutine.wrap(GQNPX_fake_script)()
-else end
+else
+  game.StarterGui:SetCore('SendNotification', {
+    Title = 'HeleHub';
+    Text = 'game not supported';
+  })
+end
