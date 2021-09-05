@@ -2,3 +2,6 @@ Updates:
 
   1.0.0:
     -Added Game Tapping Mania
+
+  1.0.1:
+    -Added Game Arsenal
