@@ -1,6 +1,6 @@
 # HeleHub
 ## The Website to get script:
-### http://tuh66.github.io/hele_hub
+### https://hele-hub.glitch.me
 
 
 ### Enjoy :)
