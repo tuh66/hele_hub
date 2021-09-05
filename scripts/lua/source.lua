@@ -1,5 +1,5 @@
 _G.ver = '1.0.0'
-loadstring(game:HttpGet(('https://tuh66.github.io/hele_hub/lua/ver.lua'), true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/tuh66/hele_hub/main/scripts/lua/ver.lua'), true))()
 if game.PlaceId == 5535087806 then
 print 'tapping mania detected';
 local ui = Instance.new("ScreenGui")
