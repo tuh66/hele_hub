@@ -1,3 +1,4 @@
+_G.ver = '1.0.0'
 if game.PlaceId == 5535087806 then
 print 'tapping mania detected';
 local ui = Instance.new("ScreenGui")
