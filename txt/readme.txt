@@ -1,4 +1,4 @@
 HeleHub
-The Website to get script: http://tuh66.github.io/hele_hub
+The Website to get script: https://hele-hub.glitch.me
 
 Enjoy :)
